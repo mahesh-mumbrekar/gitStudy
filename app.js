@@ -16,6 +16,9 @@ let job = {
 alert(job.title)
 
 
+// some new changes
+
+
 let adultYears = age - 18;
 function calculateAdultYears() {
     adultYears = age - 18
